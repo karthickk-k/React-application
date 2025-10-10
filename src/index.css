@@ -2,3 +2,13 @@ body {
   margin: 0;
   padding: 0;
 }
+
+#background-images {
+  background-image: url('./assets/Background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.MuiDialogTitle-root+.css-oq3c4v-MuiDialogContent-root {
+    padding-top: 8px !important;
+}
