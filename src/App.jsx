@@ -3,8 +3,7 @@
   const App = () => {
     return (
       <div>
-        <h5>Welcome to React Application</h5>
-        <div>Form </div>
+        <h4>Welcome to react application</h4>
       </div>
     )
   }
